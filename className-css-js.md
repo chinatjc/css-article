@@ -1,4 +1,4 @@
-# 在css、js 和 className之间如何解藕
+# className在css、js之间如何解藕
 
 ```html
 <style>
