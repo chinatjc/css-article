@@ -7,3 +7,5 @@
 
 [className在css、js之间如何解藕](https://github.com/chinatjc/css-article/blob/master/className-css-js.md)
 
+[css 属性 background 缩写](https://github.com/chinatjc/css-article/blob/master/property__background.md)
+

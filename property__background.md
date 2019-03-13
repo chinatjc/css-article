@@ -1,4 +1,4 @@
-# css 属性 background
+# css 属性 background 缩写
 
 > 属性书写顺序
 - background-color
